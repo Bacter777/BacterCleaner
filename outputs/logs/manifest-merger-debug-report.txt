@@ -1,0 +1,269 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:25:1-42:12
+MERGED from [com.fxn769:stash:1.3.2] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\50d8ce0e6847dcd80acee4ec7cd44f4f\jetified-stash-1.3.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.medyo:fancybuttons:1.9.1] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e059e186981fe235ad2bd0909aeff580\jetified-fancybuttons-1.9.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\67b6fc531b257fff9ca7f0ac02f9750d\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f406f04aeaff9d151616c5b70ba9f2dc\jetified-core-0.8.5.9\AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\87157398bccf80a719f0993d15aaed5b\jetified-library-1.1.5\AndroidManifest.xml:6:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.aakira:expandable-layout:1.4.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\48c55e4768d96b66c346989e34a0c781\jetified-expandable-layout-1.4.3\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:34:5-67
+MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:34:5-67
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:9:5-39:19
+MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:36:5-40:19
+MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:36:5-40:19
+MERGED from [com.github.medyo:fancybuttons:1.9.1] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e059e186981fe235ad2bd0909aeff580\jetified-fancybuttons-1.9.1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.medyo:fancybuttons:1.9.1] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e059e186981fe235ad2bd0909aeff580\jetified-fancybuttons-1.9.1\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f406f04aeaff9d151616c5b70ba9f2dc\jetified-core-0.8.5.9\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f406f04aeaff9d151616c5b70ba9f2dc\jetified-core-0.8.5.9\AndroidManifest.xml:13:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.aakira:expandable-layout:1.4.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\48c55e4768d96b66c346989e34a0c781\jetified-expandable-layout-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [com.github.aakira:expandable-layout:1.4.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\48c55e4768d96b66c346989e34a0c781\jetified-expandable-layout-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:14:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:11:9-42
+	android:roundIcon
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:18:9-28
+	android:icon
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.bacter.bactercleaner.PromptActivity
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:19:5-22:55
+	android:label
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:21:9-54
+	android:theme
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:20:9-39
+activity#com.bacter.bactercleaner.WhitelistActivity
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:23:5-26:48
+	android:parentActivityName
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:25:9-55
+	android:theme
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:26:9-45
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:24:9-42
+activity#com.bacter.bactercleaner.MainActivity
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:27:5-34:16
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:28:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:29:9-33:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:30:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:32:23-70
+activity#com.bacter.bactercleaner.SettingsActivity
+ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:35:5-38:48
+	android:parentActivityName
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:37:9-51
+	android:theme
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:38:9-45
+	android:name
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml:36:9-41
+uses-sdk
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:30:5-32:41
+MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:30:5-32:41
+MERGED from [com.fxn769:stash:1.3.2] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\50d8ce0e6847dcd80acee4ec7cd44f4f\jetified-stash-1.3.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.fxn769:stash:1.3.2] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\50d8ce0e6847dcd80acee4ec7cd44f4f\jetified-stash-1.3.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.medyo:fancybuttons:1.9.1] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e059e186981fe235ad2bd0909aeff580\jetified-fancybuttons-1.9.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.medyo:fancybuttons:1.9.1] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e059e186981fe235ad2bd0909aeff580\jetified-fancybuttons-1.9.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\67b6fc531b257fff9ca7f0ac02f9750d\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\67b6fc531b257fff9ca7f0ac02f9750d\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f406f04aeaff9d151616c5b70ba9f2dc\jetified-core-0.8.5.9\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f406f04aeaff9d151616c5b70ba9f2dc\jetified-core-0.8.5.9\AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\87157398bccf80a719f0993d15aaed5b\jetified-library-1.1.5\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\87157398bccf80a719f0993d15aaed5b\jetified-library-1.1.5\AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.aakira:expandable-layout:1.4.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\48c55e4768d96b66c346989e34a0c781\jetified-expandable-layout-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.aakira:expandable-layout:1.4.3] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\48c55e4768d96b66c346989e34a0c781\jetified-expandable-layout-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\f406f04aeaff9d151616c5b70ba9f2dc\jetified-core-0.8.5.9\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BdFreak\AndroidStudioProjects\BacterCleaner\app\src\main\AndroidManifest.xml
+activity#com.heinrichreimersoftware.androidissuereporter.IssueReporterLauncher$Activity
+ADDED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:37:9-39:58
+	android:theme
+		ADDED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from [com.heinrichreimersoftware:android-issue-reporter:1.4] C:\Users\BdFreak\.gradle\caches\transforms-2\files-2.1\6c46e1c1383a8c6cb19979ced21b342a\jetified-android-issue-reporter-1.4\AndroidManifest.xml:38:13-106
